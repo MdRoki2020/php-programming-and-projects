@@ -1,0 +1,32 @@
+body{
+  background:#111;
+}
+.signupform {
+  width: 500px;
+  background: #53629c;
+  margin: auto;
+  margin-top: auto;
+  margin-top: 200px;
+  padding: 61px 10px;
+  border: 4px solid #ff5200;
+  border-radius: 4px;
+}
+.signupform input {
+  padding: 11px 74px;
+  text-align: center;
+  margin-left: 108px;
+  background: linear-gradient(#6b7b8785,#dbecfbed);
+  border: none;
+}
+.signupform h2 {
+  text-align: center;
+  color: #ffffffba;
+  margin-bottom: 27px;
+}
+.signupbtn:hover {
+  cursor: pointer;
+}
+.signupbtn {
+  color: #0000009c;
+  padding: 10px 125.5px !important;
+}
